@@ -241,3 +241,63 @@ printf( 格式化字符串，待打印项1，待打印项2，...);
 | #    |                                                              |
 | 0    |                                                              |
 
+## 数组和指针
+
+### 指针与地址
+
+`&`为取址运算符
+
+```c
+int a=0;
+int *p = &a; //有效
+
+int *p;
+p=&a; //有效
+```
+
+### 解引用
+
+`*`为解引用运算符
+
+### 处理数组函数声明
+
+以下四种原型等价
+
+```c
+int sum(int *ar, int n);
+int sum(int *, int);
+int sum(int ar[], int n );
+int sum (int [], int);
+```
+
+### 多维数组及处理函数
+
+**声明**
+
+```c
+int (* pz)[2];
+```
+
+**处理函数声明**
+
+```c
+void sum(int ar[][COLS],int rows);
+void sum(int [][COLS],int);
+void sum(int (*ar)[COLS], int rows);
+```
+
+### C const和C++ const
+
+C和C++中const用法很相似，但是并不完全相同。
+
+- C++允许在声明数组大小时使用const整数，而C却不允许。
+- C++的指针赋值检查更严格
+
+```c
+const int y;
+const int *p2=&y;
+int *p1;
+p1=p2; //C++中不允许这么做，但是C可能只给出警告
+```
+
+C++不允许把const指针赋给非const指针。而C允许这样做，但是如果通过p1更改y，其行为是未定义的。
