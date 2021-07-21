@@ -8,7 +8,7 @@
 yum install vsftpd -y
 ```
 
-![image-20210518223129917](E:\笔记\计算机\云服务器配置\配置ftp.assets\image-20210518223129917.png)
+![image-20210518223129917](.\配置ftp.assets\image-20210518223129917.png)
 
 显示complete即完成
 
@@ -38,7 +38,7 @@ system status vsftpd.service
 netstat -anp|grep 21
 ```
 
-![image-20210518230942052](E:\笔记\计算机\云服务器配置\配置ftp.assets\image-20210518230942052.png)
+![image-20210518230942052](.\配置ftp.assets\image-20210518230942052.png)
 
 可以看到端口21已经被vsftpd监听了
 
@@ -66,7 +66,7 @@ useradd -d 用户目录 -g ftp -s /sbin/nologin 用户名
 -s /sbin/nologin 表示这个用户不能用来登录secureCRT这样的客户端。 这种不能登陆的用户又叫做虚拟用户
 创建过程给出的警告信息是正常的，不用理会
 
-![image-20210518231608088](E:\笔记\计算机\云服务器配置\配置ftp.assets\image-20210518231608088.png)
+![image-20210518231608088](.\配置ftp.assets\image-20210518231608088.png)
 
 ### 删除用户
 
@@ -91,7 +91,7 @@ chmod -R 775 用户目录
 passwd 用户名
 ```
 
-![image-20210518232435425](E:\笔记\计算机\云服务器配置\配置ftp.assets\image-20210518232435425.png)
+![image-20210518232435425](.\配置ftp.assets\image-20210518232435425.png)
 
 ## 用户配置
 
@@ -153,7 +153,7 @@ vim /etc/vsftpd/chroot_list
 
 修改完成之后，保存退出。
 
-![image-20210518233513312](E:\笔记\计算机\云服务器配置\配置ftp.assets\image-20210518233513312.png)
+![image-20210518233513312](.\配置ftp.assets\image-20210518233513312.png)
 
 ### 允许写权限
 
