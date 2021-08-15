@@ -9,7 +9,7 @@
 
 ## 目标URL
 
-[https://jwc.wh.sdu.edu.cn/gztz.htm（山东大学威海教务处工作通知](https://jwc.wh.sdu.edu.cn/gztz.htm)及其各个具体通知页面
+[https://jwc.wh.sdu.edu.cn/gztz.htm（山东大学威海教务处工作通知）](https://jwc.wh.sdu.edu.cn/gztz.htm)及其各个具体通知页面
 
 (crawler.Crawler)  
 ```python
@@ -271,7 +271,7 @@ def send_email(content, titles):
 
 ### 问题
 
-1. 部分通知需要内网才能访问，目前尚未掌握Linux系统连接内网方面知识，无法获取需要内网才能访问的通知的内容
+1. 部分通知需要内网才能访问，目前尚未掌握Linux系统连接内网方面知识，无法获取需要内网才能访问的通知的内容，但仍可通过在内网环境内通知url来访问该通知
 2. 模块拆分仍不够细致，可维护性仍可提高，可继续解耦合。
 3. 未知Error，尝试try-catch无法处理
 3. 未设置配置文件不正确时异常处理
@@ -292,3 +292,8 @@ def send_email(content, titles):
 
 因本系统目的在于及时将教务处通知通知到个人，故采用邮件发送的方式，无持久化文本数据，故采用截图形式展示爬取数据
 
+![系统启动](./presentation.assets/系统启动.JPG)
+
+![正常通知](./presentation.assets/正常通知.JPG)
+
+![内网通知](./presentation.assets/内网通知.JPG)
