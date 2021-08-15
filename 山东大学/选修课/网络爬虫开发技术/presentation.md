@@ -292,8 +292,8 @@ def send_email(content, titles):
 
 因本系统目的在于及时将教务处通知通知到个人，故采用邮件发送的方式，无持久化文本数据，故采用截图形式展示爬取数据
 
-![系统启动](./presentation.assets/系统启动.JPG)
+![系统启动](presentation.assets/系统启动.JPG)
 
-![正常通知](./presentation.assets/正常通知.JPG)
+![正常通知](presentation.assets/正常通知.JPG)
 
-![内网通知](./presentation.assets/内网通知.JPG)
+![内网通知](presentation.assets/内网通知.JPG)
