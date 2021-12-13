@@ -28,5 +28,12 @@ ssh: connect to host github.com port 22: Connection refused
 在`./ssh`目录下新建文件`config`，输入
 
 ```
-
+Host github.com  
+User xxxx@xx.com
+Hostname ssh.github.com  
+PreferredAuthentications publickey  
+IdentityFile ~/.ssh/id_rsa  
+Port 443
 ```
+
+即可
