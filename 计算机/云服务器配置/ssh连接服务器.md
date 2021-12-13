@@ -30,3 +30,13 @@ cat /download/id_rsa.pub >> ~/.ssh/authorized_keys
 
 ## 设置别名
 
+修改`~/.ssh/config`，添加如下记录
+
+```shell
+Host 别名
+HostName url
+User username
+Port 22
+IdentityFile ~/.ssh/id_rsa 
+```
+
