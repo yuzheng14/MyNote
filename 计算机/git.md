@@ -16,3 +16,17 @@ ssh-keygen -t rsa -C "你的邮箱"
 git config --global user.name "Your Name"（注意前边是“- -global”，有两个横线）
 git config --global user.email "email@example.com"
 ```
+
+## git拒绝连接
+
+问题
+
+```
+ssh: connect to host github.com port 22: Connection refused
+```
+
+在`./ssh`目录下新建文件`config`，输入
+
+```
+
+```
