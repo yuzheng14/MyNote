@@ -119,6 +119,21 @@ deb-src http://mirrors.tencent.com/ubuntu/ bionic-security main restricted unive
 deb-src http://mirrors.tencent.com/ubuntu/ bionic-updates main restricted universe multiverse
 ```
 
+因腾讯云镜像不支持默认Ubuntu版本，更换阿里云镜像
+
+```shell
+deb http://mirrors.aliyun.com/ubuntu/ focal main restricted universe multiverse
+deb-src http://mirrors.aliyun.com/ubuntu/ focal main restricted universe multiverse
+deb http://mirrors.aliyun.com/ubuntu/ focal-security main restricted universe multiverse
+deb-src http://mirrors.aliyun.com/ubuntu/ focal-security main restricted universe multiverse
+deb http://mirrors.aliyun.com/ubuntu/ focal-updates main restricted universe multiverse
+deb-src http://mirrors.aliyun.com/ubuntu/ focal-updates main restricted universe multiverse
+deb http://mirrors.aliyun.com/ubuntu/ focal-proposed main restricted universe multiverse
+deb-src http://mirrors.aliyun.com/ubuntu/ focal-proposed main restricted universe multiverse
+deb http://mirrors.aliyun.com/ubuntu/ focal-backports main restricted universe multiverse
+deb-src http://mirrors.aliyun.com/ubuntu/ focal-backports main restricted universe multiverse
+```
+
 > 注意备份原文件，后边安装git可能镜像无所需依赖，需要官方依赖
 >
 > deb http://cn.archive.ubuntu.com/ubuntu/ focal main restricted universe multiverse
