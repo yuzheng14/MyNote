@@ -78,6 +78,7 @@ echo 1 > /proc/sys/net/bridge/bridge-nf-call-ip6tables
 
 ```shell
 minikube dashboard
+minikube addons enable dashboard # 或者使用这种方式打开
 ```
 
 本地集群的Dashboard和EKS的控制台其作用和功能基本都是相同的，我们可以通过这个可视化的方式来学习以及来管理Kubernetes。
@@ -91,6 +92,18 @@ minikube dashboard --alsologtostderr -v=1
 ![本地集群的Dashboard](第5章 Kubernetes快速入门.assets/WX20211125-234019%402x.png)
 
 > dashboard卡I1224 17:01:34.874279    5269 dashboard.go:127] Success! I will now quietly sit around until kubectl proxy exits!
+
+打开之后，要配置外网访问，所以暂时就先用kubectl proxy代理，绑定公网访问，这样可以在浏览器访问所有的资源了，端口号自己设定就好
+
+```shell
+kubectl proxy --address='0.0.0.0' --accept-hosts='^*$' --port=8009 &
+```
+
+查看以下网址：
+
+```shell
+http://你的ip:8009/api/v1/namespaces/kubernetes-dashboard/services/kubernetes-dashboard/proxy
+```
 
 ## 通过Kubectl连接Kubernetes集群
 
