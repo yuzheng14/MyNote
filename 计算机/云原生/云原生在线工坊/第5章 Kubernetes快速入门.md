@@ -35,6 +35,18 @@ curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-latest
 sudo rpm -Uvh minikube-latest.x86_64.rpm
 ```
 
+#### 卸载minikube
+
+```shell
+minikube stop; minikube delete
+docker stop (docker ps -aq)
+rm -r ~/.kube ~/.minikube
+sudo rm /usr/local/bin/localkube /usr/local/bin/minikube
+systemctl stop '*kubelet*.mount'
+sudo rm -rf /etc/kubernetes/
+docker system prune -af --volumes #此条命令会删除所有的镜像，网络，volume卷
+```
+
 ## 在本地创建Kubernetes集群
 
 确定minikube安装成功后，就可以在终端中输入以下命令在本地启动一个单节点的Kubernetes集群，首次启动需要下载镜像会比较慢
