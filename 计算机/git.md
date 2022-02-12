@@ -38,3 +38,9 @@ Port 443
 
 即可
 
+## git 不显示中文
+
+```bash
+git config --global core.quotepath false
+```
+
