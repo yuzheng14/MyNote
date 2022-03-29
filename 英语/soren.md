@@ -123,3 +123,211 @@ be a world away (from) 表达 different 的概念
 
 > 寒假小课U4
 
+## 课文知识点
+
+### 精读·写作18期
+
+#### impose
+
+impose sth on 把...强加在...之上（强制性）
+
+最常见的用法之一就是征税，impose a new tax on ...
+
+> The Senate Finance bill would **impose an excise tax (消费税) on** health insurance plans / that cost more than 8,000 for an individual or 21,000 for a family.
+>
+> 《2016年6月英语六级考试》
+
+impose 后面也可接法律（law）、规章（rule）、罚款（fine）、制裁（sanction）、措施（measure），都暗含了“强制性”
+
+> ![img](soren.assets/ee778aeb-f780-4494-8a77-49e4928650d1.png)
+>
+> For this reason, the Ministry has seen fit to impose a new rule.
+>
+> 《哈利波特与火焰杯》
+>
+> see/think fit to do 认为应该做某事，决定做某事
+
+班主任 impose silence on the class “强制让班里静下来”；现在很多年轻夫妇都不想生孩子，原因就在于生活成本高，孩子会 impose a heavy burden on their lives（2012年考研英语二中出现过）；最近疫情再次抬头，很多人都要强制隔离：impose quarantine for sb.
+
+#### sanction
+
+break sanctions 违反制裁
+
+lift sanctions on/against 解除制裁
+
+#### crushing
+
+crush 压碎、粉碎 -> crushing 毁灭性的、灾难性的
+
+比如乌克兰部队遭遇惨败，就可以说 suffer a crushing defeat；疫情封锁导致商场遭遇沉重打击，可以说 The restriction rules were a crushing blow to malls；再比如前段时间股市暴跌，很多人亏得裤衩都不剩了：be in crushing debt 债台高筑；形容工作压力大、任务繁重，可以用 crushing workload 表示
+
+> ![img](soren.assets/0d1e0241-0cc3-4994-aa5f-af0e57bbfacc.png)
+>
+> - Honey, you don't drink coffee.
+> - I do when I've been up half the night, worrying about a project that's only one-third done, and I still have an apron to sew, scenery to paint, plus my normal crushing workload.
+>
+> 《摩登家庭》
+
+#### mark
+
+是...的迹象、成为...的征兆、标志着
+
+> ![img](soren.assets/e843a3c8-d635-429c-9b4d-4e8e0c69bfd3.png)
+>
+> Today marks the 80th Anniversary of the Social Security Act.
+>
+> 《纸牌屋》
+
+→ Today / This year marks the XX anniversary of... 今天/今年标志着...的XX周年 → 今天/今年是...的XX周年
+
+#### warfare
+
+战争
+
+- information warfare 信息战
+- public opinion warfare 舆论战
+- psychological warfare 心理战
+
+#### splinter
+
+divide
+
+> ![img](soren.assets/6a861c73-d491-49a4-8ae0-22b96555b8a8.png)
+>
+> ![img](soren.assets/d4811bac-7d28-42d2-aed0-5131800cdc94.png)
+>
+> ![img](soren.assets/f6aa9088-e829-44ab-a7ac-c1683cf795c2.png)
+>
+> ![img](soren.assets/f492a010-694d-4f18-8c38-3fe4444904e1.png)
+>
+> ...where society had splintered into the two factions.
+>
+> 《生活大爆炸》
+
+#### potent
+
+strong/powerful
+
+> But the other half of the name presents another ingredient, less infamous, perhaps, but also strangely potent: the kola nut.
+>
+> 《2017年12月英语六级》
+
+也可以形容药效强大
+
+> ![img](soren.assets/de165e31-df1f-49c4-b7b1-d3ea8b9fe841.png)
+>
+> 《国土安全》
+
+#### trigger
+
+引发、激发
+
+>记忆
+>
+>![img](soren.assets/46b129e7-4480-49bc-a1c4-a48273f2e648.png)
+>
+>![img](soren.assets/42e78f0e-de40-4081-a912-6c120852d4ad.png)
+>
+>You're attempting to build on the work of Ebbinghaus by triggering an involuntary memory of me playing that game.
+>
+>《生活大爆炸》
+>
+>trigger memories of... 唤起……的记忆
+
+> 情绪
+>
+> Why does social media trigger feelings of loneliness and inadequacy?
+>
+> Good weather triggers consumers' desire to go shopping.
+>
+> 《2020年12月英语六级考试》
+
+> 症状
+>
+> ![img](soren.assets/4ac69348-8675-4b7f-bc6d-3b8b3e0c9781.png)
+>
+> The cold air will trigger Leonard's asthma（哮喘）.
+>
+> 《生活大爆炸》
+
+> 功能、设备
+>
+> ![img](soren.assets/3f85da8c-958e-4b75-b2eb-80b3550d27c1.png)
+>
+> 《国土安全》
+
+> 灾难、问题
+>
+> This could trigger a tsunami that would create havoc along the coast.
+>
+> 《2019年12月英语六级》
+
+#### prompt
+
+1. 促使（“导致”是从无到有，“促使”是从有到严重）
+2. 导致、激起 = trigger
+
+> But I knew it was not kindness that prompted the offer.
+>
+> 《月亮与六便士》
+>
+> One female comedian, Yang Li, has prompted several nationwide debates.
+>
+> 2022年《经济学人》年刊
+
+#### unprecedented
+
+un+precedent+ed 史无前例的、空前的
+
+>She was appalled by West Egg, this unprecedented "place" that Broadway（百老汇） had begotten upon a Long Island fishing village.（beget：成为...之父、创造）
+>
+>《了不起的盖茨比》
+
+#### cause alarm
+
+敲响警钟
+
+可以用 sound the alarm, be a warning, be a wake-up call 替换
+
+#### priority
+
+首要任务、优先事项，在《政府工作报告》中很常见
+
+> Ensuring that our people have enough food **remains a top priority** for our government.（解决好吃饭问题始终**是头等大事**。）
+>
+> 2021年工作报告
+>
+> In our work this year, we must **make** **economic stability** **our** **top priority** and pursue progress while ensuring stability.（今年工作要坚持**稳字当头**、稳中求进。）
+>
+> 2022年工作报告
+
+XX remains a top priority 某事是头等大事
+
+make...a top priority 使...成为当务之急、优先考虑某事
+
+#### doctrine
+
+a set of beliefs that form an important part of a religion or system of ideas 信条、主义、学说
+
+> The new **doctrine** of equality smashed the bond of subservience between apprentice and master.（“平等主义”的新**思潮**打破了具有从属意味的师徒关系。）
+>
+> 《鱼翅与花椒》
+>
+> ![img](soren.assets/a0c82189-a974-4a8e-b9db-258583c82c7a.png)
+>
+> ![img](soren.assets/789765ca-9156-47ba-8d1b-7c47a09f22c4.png)
+>
+> You're just going to try to recycle Adler's **doctrine** of the inferiority complex?
+>
+> recycle 回收利用（垃圾）、再次使用（观念）
+>
+> complex 熟词僻义“情节”，比如 Oedipus complex 俄狄浦斯情节（恋母情节）
+>
+> 《生活大爆炸》
+
+#### autarky autarchy
+
+economic independence 经济上的“自给自足”
+
+清政府的“闭关锁国”政策也可以用 autarchy 表示
+
