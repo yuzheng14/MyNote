@@ -270,7 +270,7 @@ strong/powerful
 > But I knew it was not kindness that prompted the offer.
 >
 > 《月亮与六便士》
->
+
 > One female comedian, Yang Li, has prompted several nationwide debates.
 >
 > 2022年《经济学人》年刊
@@ -296,7 +296,7 @@ un+precedent+ed 史无前例的、空前的
 > Ensuring that our people have enough food **remains a top priority** for our government.（解决好吃饭问题始终**是头等大事**。）
 >
 > 2021年工作报告
->
+
 > In our work this year, we must **make** **economic stability** **our** **top priority** and pursue progress while ensuring stability.（今年工作要坚持**稳字当头**、稳中求进。）
 >
 > 2022年工作报告
@@ -312,7 +312,7 @@ a set of beliefs that form an important part of a religion or system of ideas �
 > The new **doctrine** of equality smashed the bond of subservience between apprentice and master.（“平等主义”的新**思潮**打破了具有从属意味的师徒关系。）
 >
 > 《鱼翅与花椒》
->
+
 > ![img](soren.assets/a0c82189-a974-4a8e-b9db-258583c82c7a.png)
 >
 > ![img](soren.assets/789765ca-9156-47ba-8d1b-7c47a09f22c4.png)
@@ -331,3 +331,133 @@ economic independence 经济上的“自给自足”
 
 清政府的“闭关锁国”政策也可以用 autarchy 表示
 
+#### take ... seriously
+
+重视、严肃对待
+
+> ![img](soren.assets/5c021fbd-af0a-44c5-95b2-91e4a9808bce.png)
+>
+> You must take it seriously, otherwise they'll be offended.
+>
+> 唐顿庄园
+
+take sth for granted 把……看成理所当然
+
+>You should not take others' help for granted.
+
+> ![img](soren.assets/702f90f7-bf05-428f-917b-27560944f63c.png)
+>
+> it's easy to take each other for granted.
+>
+> 生活大爆炸
+
+#### plentiful
+
+大量的
+
+> State dosh, combined with access to **plentiful** public data, has helped turn Chinese AI firms into powerhouses in certain niches.（政府资金，再加上**大量的**公共数据权限，能够帮助中国人工智能公司在某些细分领域成为强大的企业。）
+>
+> 《经济学人》2022年1月22日
+
+> Migrants to cities are attracted by **plentiful** jobs, access to hospitals and education, and the ability to escape the boredom of a farmer's agricultural life.
+>
+> 2015年6月英语六级考试
+
+#### instead
+
+表示肯定
+
+instead of 表示否定，意同 rather than
+
+#### be subject to
+
+1. 受……支配，加规则之类的词（rule, law, penalty, sanction）
+2. 易受……影响，加不好的事情
+
+> In a society fraught by political danger, where individuals **were subject to** the arbitrary rule of their imperial masters, and careers and reputations could be broken on a whim, it was a safe pleasure, one in which you could lose yourself without fear. The poet Su Dongpo started growing his own vegetables and experimenting in the kitchen only after the collapse of his official career and the start of an impoverished exile.（在一个政治动荡的社会，个人的命运**受制于**专制的帝国君主；事业、名声可能因为某人的心血来潮就毁于一旦。在这样的环境中，食物是很安全的享受，你可以毫无恐惧地在其中放松自己。诗人苏东坡就是在仕途失意、数次贬谪之后，才开始亲自躬耕陇亩、洗手烹鲜。）
+>
+> 鱼翅与花椒
+
+>As such, they are subject to restrictions on exports to China put in place by Donald Trump and extended by his successor as president, Joe Biden.（正因如此，特朗普将它们列入了对华出口管制清单，其继任者拜登又延续了这一举措。）
+>
+>《经济学人》2022年1月22日
+
+> Constant government policy changes and police brutality adds to the sufferings of the migrants who have already **been subject to** extended custody, cruel torture, forced labor and many other inhumane treatments.（政府朝令夕改、暴力执法，移民群体**遭受**超期羁押、酷刑和强迫劳动等不人道待遇。）
+>
+> 《2021年美国侵犯人权报告》国务院新闻办公室
+
+> ![img](soren.assets/b5e78f5d-0392-4c76-afcc-f178488ed961.png)
+>
+> ![img](soren.assets/48a075e4-8c26-46a0-908a-f56d97e62e84.png)
+>
+> ![img](soren.assets/19761779-8066-4473-917a-2e6b25cb23f5.png)
+>
+> Go up to the roof, hop over to the next building. There is a small gap. Don't look down if you**'re subject to vertigo**.
+>
+> vertigo 眩晕、头晕目眩
+>
+> 生活大爆炸
+
+#### torture
+
+n./v. （肉体上的拷打），（精神上的）折磨
+
+> ![img](soren.assets/f3f57ceb-a29e-4cda-97a7-fb587031c38a.png)
+>
+> If Theon tracks us here, he'll torture them.
+>
+> 权力的游戏
+
+> ![img](soren.assets/4aa8b2c0-8e3d-4c3c-99ed-a7d7393dd63e.png)
+>
+> It was torture seeing him dig up my grass.
+>
+> It is torture doing 做某事很难受
+>
+> 怦然心动
+
+#### evade
+
+躲避，可以理解成 avoid
+
+> ![img](soren.assets/9c02895f-5bf0-4e2e-b3f3-948138a4bf8e.png)
+>
+> Each had earned a prize for having been clever enough to evade him.（如果有人足够聪明能够躲避他（死神），就可以获得一个奖励。）
+>
+> 哈利波特与死亡圣器
+
+#### crippling
+
+cripple n. 瘸子 v. 使……成为瘸子→严重危害
+
+crippling 有严重危害的 having a very serious, harmful effect.
+
+>![img](soren.assets/fb893ac1-3dbe-464d-b2f3-f065a0e1f70f.png)
+>
+>When Carolyn left me, the loneliness was crippling.
+>
+>绝望的主妇
+
+#### topple
+
+推翻，常出现在政治语境中
+
+> ![img](soren.assets/f402a4d3-2a8b-4b8d-91d1-453bdbc3244e.png)
+>
+> Her testimony is an effort to topple this administration.
+>
+> 国土安全
+
+topple down 跌倒，摔下去
+
+> Once he nearly toppled down a flight of stairs.
+>
+> flight 除了“航班”，还可以表示“一段楼梯”。
+>
+> 了不起的盖茨比
+
+#### apply pressure
+
+apply/put/place pressure on sb. 给……施加压力
+
+escape/get away with/evade 躲避压力（躺平）
