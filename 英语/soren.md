@@ -461,3 +461,167 @@ topple down 跌倒，摔下去
 apply/put/place pressure on sb. 给……施加压力
 
 escape/get away with/evade 躲避压力（躺平）
+
+#### Rubicon
+
+>源自意大利和高卢的界河鲁比肯河(Rubicon)。公元前49年，凯撒违规带兵越过鲁比肯河，从而不可避免地引发了战争。
+
+cross the Rubicon 越过雷池、破釜沉舟、断然采取行动
+
+> ![img](soren.assets/3cfa7850-f649-4f34-ade3-0b081fdb30ba.png)
+>
+> No return. She's crossed the Rubicon.
+>
+> 唐顿庄园
+
+> ![img](soren.assets/d47b82e9-3f52-4f75-953e-f2a60f1f1527.png)
+>
+> That is a mistake, Linda. We've already crossed the Rubicon.
+>
+> 纸牌屋
+
+#### make it illegal
+
+使……非法、禁止
+
+可以用 illegalize 替换
+
+#### expel
+
+- 学校：开除（expel sb）（主动辍学是 drop out）
+
+- 体育赛事：禁止参赛、取消比赛资格
+
+  > The IOC expelled Russian athletes.
+
+- 政治领域：驱逐出境
+
+- 表达情绪情感：排遣、排出
+
+> Cultivating positive interpersonal relationships helped him **expel solitary feelings**.
+>
+> 2019年6月英语六级
+
+> In 2021, the humanitarian crisis continued to intensify as the southern border of the United States saw an increasing inflow of migrants, and border enforcement officers used increasingly violent means to **expel** or prevent asylum seekers from entering the country.（2021年，美国南部边境移民潮日益汹涌，边境执法人员以不断升级的暴力手段**驱赶**寻求庇护者或阻止其入境，导致人道主义危机持续加剧。）
+>
+> 2021年美国侵犯人权报告
+
+#### plumbing
+
+建筑物的管道系统
+
+the global-payments plumbing 比喻全球支付系统
+
+> Rather than letting a few credit-card firms have a stranglehold on the electronic pipes for digital payments, as America may yet allow, governments must ensure **the payments plumbing** is open to a range of digital firms which can build services on top of it.（不能像美国一样，让少数信用卡公司牢牢控制住数字支付的电子通道，中国政府必须确保**支付通道系统**向众多数字公司开放，使这些企业能在此基础上建立自己的服务。）
+>
+> stranglehold 卡脖子、完全控制
+>
+> stranglehold on 对……完全控制
+>
+> 经济学人
+
+#### seize up
+
+身体部分发僵、无法动弹，或机器卡住、停止运行
+
+> ![img](soren.assets/9fd173dc-8011-4b27-aba0-e0d316a47cf8.png)
+>
+> My back seized up.
+>
+> 摩登家庭 第1季第23集
+
+#### access
+
+the **opportunity** or **right** to use sth or see sb/sth 使用/见到……的**机会**或**权利**
+
+> Youngsters today have access to a wide range of educational choices unimaginable a generation ago.
+
+> Despite intolerably high pressure, many talented people decide to stay in big cities because of easy access to excellent educational and medical resources.
+
+> No man or woman should be denied equal access to education and employment.
+
+> the problem of easy access to guns
+
+#### reserve
+
+v. 保留
+
+>reserve a good chair/seat for me.
+
+> In my younger and more vulnerable years, my father gave me some advice. "Always try to see the best in people," he would say. As a consequence, I'm inclined to reserve all judgements.（在我年轻、脆弱的岁月里，我父亲给了我一些建议：“永远看到人们最好的一面”。因此，我往往会保留所有的意见。）
+>
+> 了不起的盖茨比
+
+> Reserve all judgements until you see the whole picture.（未知全貌，不予置评）
+
+n. 储备
+
+> oil reserves
+
+> Saudi Arabia has the largest oil reserves in the world.
+
+> cash reserves
+
+#### evaporate
+
+（液体）蒸发、挥发
+
+也可以比喻某种感觉、计划、活动 become weaker and disappear，可翻译成（情绪）消失，（计划）落空，（活动）停止
+
+> His courage / hopes has(have) evaporated.
+
+> Commercial activities have evaporated.
+
+> The **job security** that the US economy once offered to high school graduates has largely **evaporated**.
+>
+> 2018年考研英语二
+
+> If they lose people, cities will run into a fiscal crunch, too. Their **income** from things like hotel taxes and bus fares has **evaporated**.
+>
+> 经济学人
+
+#### threaten
+
+sth bad will happen （坏事）可能发生
+
++名词/to do
+
+> The fighting is **threatening to** turn into full-scale war.
+
+> Reading books, going to the theatre or cinema, listening to new music, playing video games—all have been presented as **threatening to** undermine authority, degrade human relationships and lure people into sin.（读书，去剧院和影院，听新的音乐，玩视频游戏，这些都曾被认为**可能会**破坏权威，损害人际关系，以及诱导人们犯罪。）
+>
+> 经济学人
+
+> Then they got caught up in the Chinese government’s sweeping efforts to rein in the country’s technology giants, with a regulatory clampdown unveiled in July after months of rumbling that **threatens to** put an end to years of out-sized growth. （随后，中国政府对本国科技巨头发起了全面打击，并于七月公布了一项监管措施，教育行业被卷入其中（此前好几个月就传出风声，政府**可能会**终结培训行业的超规模增长）。）
+>
+> Bloomberg（彭博社）
+
+#### offshore
+
+海外的
+
+> There have been signs of stress in offshore dollar-funding markets, meaning foreign central banks may ask the Federal Reserve for dollars.（有迹象显示，离岸美元融资市场面临压力，这意味着外国央行可能会向美联储索要美元。）
+>
+> 经济学人 2022年3月5日
+
+> ![img](soren.assets/48a530f7-e6ad-41e2-9f6e-a44bf54dd305.png)
+>
+> It seems Fring had all these secret offshore accounts that he would deposit money into an even dozen of them.
+>
+> 绝命毒师
+
+#### multinational
+
+跨国公司
+
+multi- 多 national 国家
+
+>a multi-ethnic society
+
+#### 表示公司
+
+company, firm 公司
+
+giant, corporation, behemoth 大公司
+
+group, conglomerate 集团
