@@ -131,6 +131,90 @@ But the critics of cash have **been met by** their own critics, who argue that e
 
 > 精读·写作18期 精读4 第5句注解
 
+## 语法要点
+
+### 介词+which/whom 的定语从句
+
+#### 介词配合动词
+
+主干：主语+谓语+介词+whom/which+
+
+从句：主语+谓语
+
+介词与从句动词形成动词词组（eg. wait for, depend upon/on, deal with, look up to, etc）
+
+> I won’t tell the secret to a person in whom I don’t believe.
+>
+> believe in
+
+> His failure was a heavy blow from which he never fully recovered.
+>
+> recover from
+
+> There is a great demand for high-quality tuna, on which people in Japan would spend much money.
+>
+> spend on
+
+> Without chips it(Huawei) cannot make the smartphones or mobile-network gear on which its business depends.
+>
+> depend on
+>
+> 经济学人 2020年9月12日
+
+#### 介词配合名词
+
+主干：主语+谓语+名词+介词+whom/which
+
+从句：主语+谓语
+
+介词与名词形成名词词组
+
+> She showed me her engagement ring, on which there were three small diamonds.
+>
+> on the ring → on which
+
+> I arrived home at six o’clock, at which it began to rain heavily.
+>
+> at six o’clock → at which
+
+> I am looking for a box in which I can put some rare stamps.
+>
+> in the box → in which
+
+> The speed at which covid-19 vaccines have been produced has made scientists household name.
+>
+> at the speed → at which
+>
+> 经济学人
+
+> And, besides experience, the games industry has plenty of ready-made early adopters for whom virtual worlds are already an established cultural norm.
+>
+> 经济学人 2021年11月20日
+
+#### 补充句型
+
+句型：part/some/many/both/none .. of which/whom ...
+
+which 代替前面主要子句中所提过的事物
+
+whom 代替前面主要子句中所提过的人
+
+The club consists of thirty members. Most of them are teachers.   
+→ The club consists of thirty members, most of whom are teachers.
+
+Mr Floyd's death in Minneapolis on 25 May sparked protests throughout the country and the world, the vast majority of which have been peaceful.  
+→ Mr Floyd's death in Minneapolis on 25 May sparked protests throughout the country and the world, and the vast majority of them have been peaceful.
+
+Tina bought many books. Some of them are romantic novels.   
+→ Tina bought many books, some of which are romantic novels.
+
+It is one of the Wu languages of eastern China, many of which are mutually comprehensible, with 80m speakers altogether.  
+→ It is one of the Wu languages of eastern China, and many of the Wu languages are mutually comprehensible, with 80m speakers altogether.
+
+> In a society fraught by political danger, where individuals were subject to the arbitrary rule of their imperial masters, and careers and reputations could be broken on a whim, it was a safe pleasure, one in which you could lose yourself without fear. The poet Su Dongpo started growing his own vegetables and experimenting in the kitchen only after the collapse of his official career and the start of an impoverished exile.
+>
+> 鱼翅与花椒
+
 ## 课文知识点
 
 ### 精读·写作18期
@@ -633,3 +717,171 @@ company, firm 公司
 giant, corporation, behemoth 大公司
 
 group, conglomerate 集团
+
+#### crunch
+
+a situation in which there is suddenly not enough of sth., especially money
+
+不足、短缺，和 shortage 类似
+
+cash-crunch 现金短缺
+
+> If they lose people, cities will **run into a fiscal crunch**, too. Their income from things like hotel taxes and bus fares has evaporated.
+>
+> 经济学人
+
+#### <span id="impede">impede</span>
+
+阻碍、阻止，比较正式
+
+可以用 hinder，hamper 替换
+
+> We will move faster to do away with all regulations and practices that **impede** the functioning of a unified market and fair competition.（加快清理**妨碍**统一市场和公平竞争的各种规定和做法。）
+>
+> 政府工作报告 2019年
+
+> If you cherish an affection, sir, then fortune alone cannot impede you.（要是你珍爱自己的感情，先生，那财富的差距不足以阻挠你。）
+>
+> 简爱
+
+#### 关于“阻碍、抑制”的表达
+
+1. thwart
+
+   > Dionysus forces his followers to abandon rigid patterns of thought or behaviour that threaten to thwart their development.
+   >
+   > 经济学人 2020年4月11日
+
+2. hobble
+
+   > When China shuts its borders to foreigners almost completely, it stops imported infections but it also hobbles foreign businesses.
+   >
+   > 经济学人 2020年4月4日
+
+3. inhibit
+
+   > Repatriating supply chains, as Mr Biden would, will inhibit competition and grind down living standards.（迁回供应链（拜登会这么做）会抑制竞争、降低生活水平。）
+   >
+   > 经济学人 2021年4月10日
+
+   > The exit path from lockdowns will be precarious, with uneasy consumers, a stop-start rhythm that inhibits efficiency, and tricky new health protocols.（消费者惶惶不安，复工节奏走走停停，抑制了生产效率，而且新的治疗方案纷繁复杂，这些都使解封之路危险重重。）
+   >
+   > inhibit efficiency 抑制生产效率
+   >
+   > 经济学人
+
+4. discourage
+
+   > Right now, the rules — on campaign finance, redistricting, even ballot access — overwhelmingly discourage competition.（目前，有关竞选资金、重新划分选区、甚至投票的规则都极大地阻碍了竞争。）
+   >
+   > 纽约时报
+
+   > And governments need to find mechanisms that cushion people more effectively against income shocks and joblessness without discouraging work or crushing economic dynamism.（而且政府需要构建机制，来更有效地缓冲收入冲击和失业的影响，同时又不会阻碍就业、破坏经济活力。)
+   >
+   > 经济学人
+
+5. barrier
+
+   > Lack of confidence is a psychological barrier to success. 
+
+   > Problems with childcare remain the biggest barrier to women succeeding at work.
+
+6. [impede](#impede)
+
+7. [strangle](#strangle)
+
+8. [stymie](#stymie)
+
+9. hamper
+
+10. hinder
+
+#### retaliate sb with
+
+用……报复某人
+
+#### <span id="strangle">strangle</span>
+
+kill someone by pressing their throat with your hands, a rope etc.
+
+勒死、掐死，相当于 choke
+
+引申为 限制……的发展、阻碍，可以和前面的 impede 替换
+
+strangle/impede the economy 阻碍经济
+
+> I had to **strangle the sobs** quickly—Dad would never take me seriously if I couldn’t—so I stopped the bawling using the old methods: staring my face down in the mirror and scolding it for every tear.
+>
+> 你当像鸟飞往你的山
+
+> All outdated rules and regulations that sap the inspiration for innovation need to be modified or abolished without delay, and all red tape that **strangles** efforts to unlock innovation need to be torn clean away.（有悖于激励创新的陈规旧章，要抓紧修改废止；**有碍于**释放创新活力的繁文缛节，要下决心砍掉。）
+>
+> sap = make sth./sb. weaker; to destroy sth. gradually
+>
+> red tape 繁文缛节
+>
+> unlock 释放
+>
+> tear clean away 字面意思是“撕干净”，对应汉语中的“砍掉、废除”
+>
+> 政府工作报告 2018年
+
+加 hold 变成 stranglehold，表示卡脖子、完全控制
+
+have stranglehold on 完全控制
+
+#### equivalent
+
+something that has the same value, purpose, job etc as something else 同等的东西，对应物
+
+后面加介词 of，可翻译成“相当于……的东西”
+
+> Sina Weibo, **the Chinese equivalent of** Twitter, has a built-in payments system and supports premium content, both features that Twitter lacks.
+>
+> 经济学人
+
+> They erased 395,000 hectares of forest, including huge tracts of ancient vegetation, between 2015 and 2016—**the equivalent of** 1,000 rugby pitches a day.
+>
+> 经济学人
+
+#### be met by/with
+
+泛指“遭遇、遇到”
+
+后面可以加 applause，enemy，critics，support/approval，opposition/disapproval，success，failur
+
+可使行文更加地道
+
+We have finally achieved success after hard work.  
+→Our hard work has finally been met with success.
+
+We have won some support with our ideas.  
+→Our ideas have been met with some support.
+
+> ![img](soren.assets/84cdc0d6-9ff4-42b5-85bc-7656e86b9e29.png)
+>
+> Usually, he's met by cheers.
+>
+> 生活大爆炸
+
+> But the critics of cash have **been met by** their own critics, who argue that electronic payments can disenfranchise poor people who lack easy access to bank accounts and the internet and can make it much easier for governments and corporations to monitor a person’s every step.（而现金支付的批评者也**遭到了**批评，这些批评指出，电子支付会剥夺穷人的权利，因为他们难以办理银行账户，也很难接触到互联网。而且，有了电子支付，政府和企业能更方便地监督人们的每个动作。 ）
+>
+> 经济学人
+
+#### <span id="stymie">stymie</span>
+
+和 [impede](#impede)，[strangle](#strangle)，hinder，hamper 都是同义替换
+
+表示抑制、遏制
+
+> ![img](soren.assets/1a3c0eff-7ac9-45a2-b513-bf5312d151da.png)
+>
+> ![img](soren.assets/53541f96-893f-4c79-a5fa-b4bf78891329.png)
+>
+> ![img](soren.assets/74117bbe-d2b3-4cc9-8f62-2ec09a2a9d19.png)
+>
+> ![img](soren.assets/8c9df0bc-51fd-44f1-9e45-e008793f65cc.png)
+>
+> You know, I try very hard to make our lunch hours educational and informative, but your insistence on talking about your own lives stymies me at every turn.
+>
+> 生活大爆炸
