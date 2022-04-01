@@ -123,6 +123,14 @@ be a world away (from) 表达 different 的概念
 
 > 寒假小课U4
 
+## 经典例句
+
+But the critics of cash have **been met by** their own critics, who argue that electronic payments can disenfranchise poor people who lack easy access to bank accounts and the internet and can make it much easier for governments and corporations to monitor a person’s every step.
+
+而现金支付的批评者也**遭到了**批评，这些批评指出，电子支付会剥夺穷人的权利，因为他们难以办理银行账户，也很难接触到互联网。而且，有了电子支付，政府和企业能更方便地监督人们的每个动作。 
+
+> 精读·写作18期 精读4 第5句注解
+
 ## 课文知识点
 
 ### 精读·写作18期
