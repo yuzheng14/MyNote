@@ -215,6 +215,32 @@ It is one of the Wu languages of eastern China, many of which are mutually compr
 >
 > 鱼翅与花椒
 
+## 地道表达
+
+### be met by/with
+
+泛指“遭遇、遇到”
+
+后面可以加 applause，enemy，critics，support/approval，opposition/disapproval，success，failur
+
+可使行文更加地道
+
+We have finally achieved success after hard work.  
+→Our hard work has finally been met with success.
+
+We have won some support with our ideas.  
+→Our ideas have been met with some support.
+
+> ![img](soren.assets/84cdc0d6-9ff4-42b5-85bc-7656e86b9e29.png)
+>
+> Usually, he's met by cheers.
+>
+> 生活大爆炸
+
+> But the critics of cash have **been met by** their own critics, who argue that electronic payments can disenfranchise poor people who lack easy access to bank accounts and the internet and can make it much easier for governments and corporations to monitor a person’s every step.（而现金支付的批评者也**遭到了**批评，这些批评指出，电子支付会剥夺穷人的权利，因为他们难以办理银行账户，也很难接触到互联网。而且，有了电子支付，政府和企业能更方便地监督人们的每个动作。 ）
+>
+> 经济学人
+
 ## 课文知识点
 
 ### 精读·写作18期
