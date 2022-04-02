@@ -284,3 +284,21 @@ We have won some support with our ideas.
 > But the critics of cash have **been met by** their own critics, who argue that electronic payments can disenfranchise poor people who lack easy access to bank accounts and the internet and can make it much easier for governments and corporations to monitor a person’s every step.（而现金支付的批评者也**遭到了**批评，这些批评指出，电子支付会剥夺穷人的权利，因为他们难以办理银行账户，也很难接触到互联网。而且，有了电子支付，政府和企业能更方便地监督人们的每个动作。 ）
 >
 > 经济学人
+
+### be vulnerable to
+
+easy to be affected by sth bad
+
+容易受到不好事物影响的
+
+是一个很常见、很地道的表达
+
+to 是介词
+
+> When payments dematerialize, people and shops **are less vulnerable to** theft.（当实现无纸支付的时候，买家和卖家的资金会更加安全。）
+>
+> 经济学人
+
+> The present **seemed vulnerable to** the past, as if I might blink, and when my eyes opened I would be fifteen.（过去的影响挥之不去，仿佛一眨眼，睁开眼睛时，我又会回到十五岁。）
+>
+> 你当像鸟飞往你的山
