@@ -215,13 +215,45 @@ It is one of the Wu languages of eastern China, many of which are mutually compr
 >
 > 鱼翅与花椒
 
+### the+形容词比较级，the+形容词比较级
+
+表示越……，越……
+
+> **The harder** we work, **the less** time we have / to enjoy the luxuries / our labour affords us. **The more** lavish / the luxuries we seek, **the more** we must earn / to acquire them, and **the longer and harder** we find ourselves working.（我们越努力工作，用来享受工作所带来的奢侈品的时间就越少。如果我们想买更昂贵的奢侈品，就要赚更多的钱，会发现自己要更长时间、更努力地工作。）
+>
+> 1843（经济学人 姊妹刊）
+
+这个句型非常灵活，有很多变体
+
+#### 谓语倒装
+
+如果后半部分主语过长，可以把谓语动词放到前面，用倒装
+
+> The younger the child is, the more is the child's need of sleep.
+
+#### 谓语 be 动词可省略
+
+如果谓语动词是 be 动词，可以省略，可以不省略，可以省略任何一个
+
+> The stronger the magnet, the greater the number of lines of magnetic force.
+
+#### 句子+the more
+
+变成“句子+the more”的结构
+
+> I play (the) better, the more I practice.
+
+#### 练习
+
+翻译：25-30岁的未婚女人为“圣斗士”，30岁以上为“斗战胜佛”，35岁以上为“齐天大圣”。
+
 ## 地道表达
 
 ### be met by/with
 
 泛指“遭遇、遇到”
 
-后面可以加 applause，enemy，critics，support/approval，opposition/disapproval，success，failur
+后面可以加 applause，enemy，critics，support/approval，opposition/disapproval，success，failure
 
 可使行文更加地道
 
