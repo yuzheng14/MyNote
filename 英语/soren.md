@@ -247,6 +247,18 @@ It is one of the Wu languages of eastern China, many of which are mutually compr
 
 翻译：25-30岁的未婚女人为“圣斗士”，30岁以上为“斗战胜佛”，35岁以上为“齐天大圣”。
 
+讲解：这句话看似很难，“圣斗士”“斗战胜佛”“齐天大圣”，乱七八糟的……其实，翻好一句话，我们不能逐词转化（因为英语和汉语的思维逻辑不同，逐词翻译老外看不懂），而要理解这句话的“内在含义”，然后把“内在含义”表达出来。这句话“圣斗士”“斗战胜佛”“齐天大圣”，看上去很复杂，其实表达的都是一个意思：未婚女性的年龄越大，越不被社会所接纳，所以我们把这层意思表达出来就可以
+
+> The older an unmarried woman is, the more she is unaccepted by society.
+>
+> The older an unmarried woman is, the more she is despised.
+>
+> The older an unmarried woman is, the more she is looked down on.
+
+>The older an unmarried woman is, the more she is demonized.
+>
+>demonize 源自 demon（妖魔），意思是“将……妖魔化”
+
 ## 地道表达
 
 ### be met by/with
