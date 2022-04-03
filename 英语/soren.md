@@ -123,6 +123,18 @@ be a world away (from) 表达 different 的概念
 
 > 寒假小课U4
 
+### 表达替换
+
+#### 太，加深程度
+
+> We were kept waiting longer **than was absolutely necessary**.（他让我们等了太久了！）
+>
+> 以后表达“太”的含义，或加深程度时，除了 very，就可以用 than is necessary 表示
+>
+> > He spent more money **than was necessary**.
+
+> 精读·写作18期U1
+
 ## 经典例句
 
 But the critics of cash have **been met by** their own critics, who argue that electronic payments can disenfranchise poor people who lack easy access to bank accounts and the internet and can make it much easier for governments and corporations to monitor a person’s every step.
@@ -215,6 +227,8 @@ It is one of the Wu languages of eastern China, many of which are mutually compr
 >
 > 鱼翅与花椒
 
+> 精读·写作18期U1
+
 ### the+形容词比较级，the+形容词比较级
 
 表示越……，越……
@@ -258,6 +272,8 @@ It is one of the Wu languages of eastern China, many of which are mutually compr
 >The older an unmarried woman is, the more she is demonized.
 >
 >demonize 源自 demon（妖魔），意思是“将……妖魔化”
+
+> 精读·写作18期U1
 
 ### than 后面可以跟哪些结构
 
@@ -311,6 +327,8 @@ It is one of the Wu languages of eastern China, many of which are mutually compr
 
 >They work better together **than if they are alone**. 
 
+> 精读·写作18期U1
+
 ## 地道表达
 
 ### be met by/with
@@ -337,6 +355,8 @@ We have won some support with our ideas.
 >
 > 经济学人
 
+>精读·写作18期U1
+
 ### be vulnerable to
 
 easy to be affected by sth bad
@@ -354,3 +374,5 @@ to 是介词
 > The present **seemed vulnerable to** the past, as if I might blink, and when my eyes opened I would be fifteen.（过去的影响挥之不去，仿佛一眨眼，睁开眼睛时，我又会回到十五岁。）
 >
 > 你当像鸟飞往你的山
+
+>精读·写作18期U1
