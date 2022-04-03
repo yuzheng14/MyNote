@@ -259,6 +259,58 @@ It is one of the Wu languages of eastern China, many of which are mutually compr
 >
 >demonize 源自 demon（妖魔），意思是“将……妖魔化”
 
+### than 后面可以跟哪些结构
+
+#### 1. than 后面直接加动词
+
+> Kim Byong-yeon at Seoul National University says the figures are a reminder that the North’s economy is more vulnerable to external shocks **than might be expected** for such a reclusive country.
+>
+> 经济学人 2018年7月28日
+
+> We were kept waiting longer **than was absolutely necessary**.（他让我们等了太久了！）
+>
+> 以后表达“太”的含义，或加深程度时，除了very，就可以用 than is necessary 表示
+>
+> > He spent more money **than was necessary**.
+
+>The town offers better cultural advantages **than has been generally supposed**.
+
+> In their recent work, however, some researchers have come up with the finding that influentials have far less impact on social epidemics **than is generally supposed**.
+>
+> 2012年 考研阅读理解 Text4
+
+> The outgoing prime minister has done a far better job **than is commonly acknowledged**.
+>
+> 经济学人
+
+#### 2. than 后面还可以接句子
+
+> The game was closer **than the score suggests**.
+>
+> 实际比赛比分数显示的更难分高下。
+
+> Girls in most rich countries consistently report being slightly sadder **than boys do**, particularly from puberty onwards.
+>
+> puberty 青春期
+>
+> from ... onwards 从……时候开始
+>
+> 经济学人 2020年 圣诞双刊
+
+> He leaves a much more impressive legacy **than his muted exit suggests**.
+>
+> 经济学人
+
+> Average working hours in the 18th century were shorter **than they became** in the 19th.
+>
+> 经济学人 2020年 圣诞双刊
+
+#### 3. than 后面还可以接 when, if 等引导的从句
+
+> You are a little fatter **than when I saw you last**.
+
+>They work better together **than if they are alone**. 
+
 ## 地道表达
 
 ### be met by/with
