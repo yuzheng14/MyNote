@@ -1,6 +1,6 @@
 # Ubisoft Connect失去连接解决办法
 
-原视频地址：[育碧平台失去连接100%解决_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1nN411X7XX/)
+原视频地址：[育碧平台失去连接100%解决 哔哩哔哩 bilibili](https://www.bilibili.com/video/BV1nN411X7XX/)
 
 首先打开服务，有两种方式
 
