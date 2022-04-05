@@ -12,8 +12,8 @@
 
 | 章节名称                | 内容                                                         | 进度   |
 | ----------------------- | ------------------------------------------------------------ | ------ |
-| 概论（Overview）        | 历史，设计哲学，反馈，开始使用                               | 翻译中 |
-| 核心（Core）            | 控制反转（IoC）容器（Container），事务（Events），资源（Resources），国际化（i18n），验证（Validation），数据捆绑（Data Binding），类型转换（Type Conversion），SpEL表达式语言（SpEL），面向切面编程（AOP） | 未翻译 |
+| 概论（Overview）        | 历史，设计哲学，反馈，开始使用                               | 已翻译 |
+| 核心（Core）            | 控制反转（IoC）容器（Container），事务（Events），资源（Resources），国际化（i18n），验证（Validation），数据捆绑（Data Binding），类型转换（Type Conversion），SpEL表达式语言（SpEL），面向切面编程（AOP） | 翻译中 |
 | 测试（Testing）         | 对象模拟（Mock Objects），上下文测试框架（TestContext Framework），Spring MVC测试（Spring MVC Test），WebTestClient | 未翻译 |
 | 访问数据（Data Access） | 事务（Transactions），DAO支持（DAO Support），JDBC，R2DBC，对象关系映射（O/R Mapping），XML编组（XML Marshalling） |        |
 | Web Servlet             | Spring MVC，WebSocket，SockJS，STOMP Messaging               |        |
