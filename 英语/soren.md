@@ -12,6 +12,16 @@
 
 > 寒假小课U4
 
+#### In a society fraught by/with 在一个……样的社会中
+
+> In a society fraught by political danger, where individuals were subject to the arbitrary rule of their imperial masters, and careers and reputations could be broken on a whim, it was a safe pleasure, one in which you could lose yourself without fear.（在一个政治动荡的社会，个人的命运受制于专制的帝国君主；事业、名声可能因为某人的心血来潮就毁于一旦。在这样的环境中，事物是很安全的享受，你可以毫无恐惧地在其中放松自己。）
+
+这句话中有一个很好的表达：In a society fraught by political danger，可以延伸出：In a society fraught by/with challenges/risks/ ...表示“在一个充满……的社会中。
+
+比如，在”职业“”就业“等话题的写作中，可以用 In a society fraught by risks of losing jobs 引出主题。
+
+>精读·写作18期U1
+
 #### 如何介绍正反双方的观点？
 
 Are sth. really adj. ? sb. are split.
@@ -45,6 +55,14 @@ A third worry is ...
 only to find... 结果却发现，表示一种意外结果，相当于 but the result is...
 
 > 寒假小课U2
+
+#### 如何分析结果
+
+> As such, they are subject to restrictions on exports to China put in place by Donald Trump and extended by his successor as president, Joe Biden.（正因如此，特朗普将它们列入了对华出口管制清单，其继任者拜登又延续了这一举措。）
+
+句首的 as such 是一个很地道的表达，表示“照此、正因如此”，可用于分析结果。
+
+>精读·写作18期U1
 
 ### 结构无关
 
@@ -123,6 +141,28 @@ be a world away (from) 表达 different 的概念
 
 > 寒假小课U4
 
+#### 如何对某一现象发表评价？
+
+> The fact that Russia did not take the threat of sanctions seriously at first is no surprise. For years they have been plentiful but ineffective.
+
+The fact that XX is no surprise. For years ...
+
+……一事并不令人惊讶。多年来……
+
+1. the fact 后接 that 引导的同位语从句，对 the fact 的内容进行补充，介绍现象
+2. is no surprise = is not a surprise，是对 the fact 的评价。写作中也可以根据实际需要，灵活替换 surprise，比如 worry。
+3. For years 解释 no surprise/worry 的原因
+
+> 精读·写作18期U1
+
+#### 如何表示下定决心
+
+> On February 26th that Rubicon was crossed, when sanctions were imposed on the world's 11th-biggest economy.
+
+cross the Rubicon，表示“破釜沉舟，背水一战”。写作中如果能灵活使用这一短语，可以增加文章的文化底蕴。
+
+>cross the Rubicon
+
 ### 表达替换
 
 #### 太，加深程度
@@ -134,6 +174,14 @@ be a world away (from) 表达 different 的概念
 > > He spent more money **than was necessary**.
 
 > 精读·写作18期U1
+
+#### 大受欢迎
+
+grain traction 是个很地道的搭配，是 become popular 的高级替换
+
+> The fact that numerous fast fashion brands left China is no surprise. For years, local brands have gained traction thanks to the low cost, the rise of online platform and the fresh design more palatable to the local market.
+>
+> 多家快时尚品牌离开中国并不令人意外。多年来，由于成本较低、在线平台的崛起以及更符合当地市场的新鲜设计，本土品牌大受欢迎。
 
 ## 经典例句
 
