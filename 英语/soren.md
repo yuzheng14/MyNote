@@ -424,3 +424,12 @@ to 是介词
 > 你当像鸟飞往你的山
 
 >精读·写作18期U1
+
+### have no choice but to do 
+
+表示“别无选择，只能……”
+
+> When Russia’s demands for security guarantees from NATO were neglected time and again, Putin had no choice but to crossed the Rubicon.
+>
+> 俄罗斯需要得到北约的安全保障，但这一需求一再被忽视，普京别无选择，只能破釜沉舟。
+
