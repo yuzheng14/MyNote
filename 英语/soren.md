@@ -1,5 +1,7 @@
 # soren外刊精读
 
+[TOC]
+
 ## 作文
 
 ### 结构相关
@@ -50,6 +52,40 @@ A third worry is ...
 
 > 寒假小课U3
 
+#### 如何引出方案
+
+It would be wise to ... . A good place to start would be with ... . ……很明智。首先一点是……
+
+1. 写作中课用来提出方法建议。
+2. 先通过 It would be wise to 引出行动。
+3. 再通过 A good place to start would be with 引出具体的建议。
+
+> It would be wise to get ahead of the discussion. A good place to start would be with hard data.
+
+> 寒假小课U2 U3
+
+#### 如何提出方案
+
+> Ensuring that our people have enough good food remains a top priority for our government.（解决好吃饭问题始终是头等大事）
+>
+> 政府工作报告 2021
+
+> In our work this year, we must make economic stability our top priority and pursue progress while ensuring stability.（今年工作要坚持稳字当头、稳中求进。）
+>
+> 政府工作报告 2022
+
+> The West's priority must be to win the economic confrontation with Russia.
+
+可以从这几句话中提炼出来一套新的表达：
+
+- XX remains a top priority.
+- We make XX our top priority.
+- Our top priority must be XX.
+
+替换提出建议时的 way, method, means, solution 等常规表达。
+
+>精读·写作18期U1
+
 #### 如何引出结果
 
 only to find... 结果却发现，表示一种意外结果，相当于 but the result is...
@@ -63,6 +99,12 @@ only to find... 结果却发现，表示一种意外结果，相当于 but the r
 句首的 as such 是一个很地道的表达，表示“照此、正因如此”，可用于分析结果。
 
 >精读·写作18期U1
+
+#### 如何进行评价
+
+XX is(view as) more of ... , rather than ... 更多是……，而不是……，可以对某种行为、现象进行评价。
+
+>寒假小课U3
 
 ### 结构无关
 
@@ -81,18 +123,6 @@ Unlike XX+定语从句, YY(主句). 不像 XX 如何如何，YY 怎样。
 
 > 寒假小课U2
 
-#### 如何引出方案
-
-It would be wise to ... . A good place to start would be with ... . ……很明智。首先一点是……
-
-1. 写作中课用来提出方法建议。
-2. 先通过 It would be wise to 引出行动。
-3. 再通过 A good place to start would be with 引出具体的建议。
-
-> It would be wise to get ahead of the discussion. A good place to start would be with hard data.
-
-> 寒假小课U2 U3
-
 #### 如何表达“激烈讨论”的含义？
 
 Nowhere does debate rage more fiercely about XX than in YY. 关于 XX，YY 的讨论最为激烈，XX 为讨论的内容，YY 为讨论的地点。
@@ -102,12 +132,6 @@ Nowhere does debate rage more fiercely about XX than in YY. 关于 XX，YY 的�
 3. rage 用得非常地道。
 
 > 寒假小课U3
-
-#### 如何进行评价
-
-XX is(view as) more of ... , rather than ... 更多是……，而不是……，可以对某种行为、现象进行评价。
-
->寒假小课U3
 
 #### 如何表达态度、感受？
 
@@ -163,6 +187,28 @@ cross the Rubicon，表示“破釜沉舟，背水一战”。写作中如果能
 
 >cross the Rubicon
 
+> 精读·写作18期U1
+
+#### 如何体现因果关系？
+
+> State dosh, combined with access to plentiful public data, has helped turn Chinese AI firms into powerhouses in certain niches.（政府资金，再加上大量的公共数据权限，能够帮助中国人工智能公司在某些细分领域成为强大的企业。）
+
+可以提炼出一个很实用的句型：A, combined with B, can help C，意思是“A和B有利于C”“A加上B有利于C”。
+
+这句话提供了一个新的思路：通过 combined with 表达“和”“以及”的含义，更加新颖。
+
+可以把“can help C”根据实际需要进行修改，比如“can lead to C”。
+
+>精读·写作18期U1
+
+#### 如何表达“人们普遍认为一种情况，而事实是另外一种情况”的概念？
+
+> The town offers better cultural advantages than has been generally supposed.（这座城镇的文化优势比人们通常认为的更大。）
+
+在表达“人们普遍认为一种情况，而事实是另一种情况”时，可以用 than has been generally supposed 替换 People generally believe that ..., but actually ...，使语言更加地道。
+
+>精读·写作18期U1
+
 ### 表达替换
 
 #### 太，加深程度
@@ -182,6 +228,16 @@ grain traction 是个很地道的搭配，是 become popular 的高级替换
 > The fact that numerous fast fashion brands left China is no surprise. For years, local brands have gained traction thanks to the low cost, the rise of online platform and the fresh design more palatable to the local market.
 >
 > 多家快时尚品牌离开中国并不令人意外。多年来，由于成本较低、在线平台的崛起以及更符合当地市场的新鲜设计，本土品牌大受欢迎。
+
+>精读·写作18期U1
+
+#### 表示假设
+
+> Although China can inflict huge economic costs on the West by blocking supply chains, it is now clear that in the event of a war over Taiwan, the West could freeze China's $3.3trn reserve pile.
+
+原句使用 in the event of 表示“如果……发生”，可以替换常用的 if，表达“假设”的概念。
+
+>精读·写作18期U1
 
 ## 经典例句
 
