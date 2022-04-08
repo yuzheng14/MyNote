@@ -116,3 +116,10 @@ git subtree split --prefix=<prefix> [OPTIONS] [<commit>]
 通过添加 remote 仓库的方法简化仓库地址
 
 修改拉去子仓库代码均需使用 `subtree` 的相关指令，并在原仓库提交推送
+
+## 统计代码行数
+
+```bash	
+git ls-files | xargs wc -l
+```
+
