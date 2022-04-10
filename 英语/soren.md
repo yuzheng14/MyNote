@@ -221,6 +221,14 @@ cross the Rubicon，表示“破釜沉舟，背水一战”。写作中如果能
 
 > 精读·写作18期U1
 
+#### very much
+
+> The city centre has altered beyond recognition (changed very much).
+>
+> 市中心变得都认不出来了。
+
+>精读·写作18期U2
+
 #### 大受欢迎
 
 grain traction 是个很地道的搭配，是 become popular 的高级替换
