@@ -123,3 +123,7 @@ git subtree split --prefix=<prefix> [OPTIONS] [<commit>]
 git ls-files | xargs wc -l
 ```
 
+```bash
+find . "(" -name "*.css" -or -name "*.js" -or -name "*.cpp"  -or -name "*.vue" ")" -print | xargs wc -l
+```
+
