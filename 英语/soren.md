@@ -497,3 +497,24 @@ to 是介词
 >
 > 俄罗斯需要得到北约的安全保障，但这一需求一再被忽视，普京别无选择，只能破釜沉舟。
 
+#### cost sb sth
+
+是一个很地道的表达，意思是“使某人付出了某个代价、使某人失去了某物”
+
+>It cost me an arm and a leg.
+>
+>它让我花了一笔巨款。
+>
+>an arm and a leg 是俗语，表示 a lot of money
+
+> Year-long lockdowns would cost America and the euro zone a third or so of GDP.
+>
+> 2020年4月 经济学人
+
+> ![img](soren.assets/c03bbe25-1334-4869-bcb4-fe2b1a0f106c.png)
+>
+> You cost us a major client.
+>
+> 你害我们失去了一个大客户。
+>
+> 绝望的主妇
