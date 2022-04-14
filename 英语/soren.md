@@ -209,6 +209,16 @@ cross the Rubicon，表示“破釜沉舟，背水一战”。写作中如果能
 
 >精读·写作18期U1
 
+#### 比较两个事物的特点
+
+> Some people hope that the internet will revolutionise higher education, making it cheaper and more accessible to the masses. Others fear the prospect. Some academics worry that they will be sacked and replaced by videos of their more photogenic colleagues. Others argue that MOOCs (massive open online courses) are nowhere near as good as a class taught face-to-face.
+>
+> 一些人认为互联网能改革高等教育，使其更便宜、更普及。其他人则对前景感到担忧。一些学者担心他们会被解雇，取而代之的是他们更上镜的同事的视频。另一些人则认为慕课(大规模在线开放课程)远不如面对面授课好。
+
+A is nowhere near as...as B 是一个写作句型，可用于比较两个事物的特点，意思是“A远没有B那么……”。
+
+> 精读·写作18期U2
+
 ### 表达替换
 
 #### 太，加深程度
