@@ -52,6 +52,42 @@ A third worry is ...
 
 > 寒假小课U3
 
+#### 分析事物的利与弊
+
+>![image-20220415114410155](soren.assets/image-20220415114410155.png)
+>
+>![image-20220415114418686](soren.assets/image-20220415114418686.png)
+
+可以从中提炼出一个写作模板：
+
+XX comes with benefits and costs. Start with the benefits...
+
+But XX comes with costs too...
+
+XX带来了好处也带来了代价，首先谈一谈好处...
+
+但XX也带来了代价。
+
+可以套用这个模板来分析事物的利与弊。
+
+come with 可以和 go with, accompany 或 be accompanied by...替换
+
+accompany 除了“陪伴”，也可以引申为“带有、同时存在/发生”的意思
+
+> As with all new technologies, pitfalls **accompany** the promise.
+>
+> 和所有的新技术一样，问题伴随着希望。
+>
+> 经济学人
+
+> Every tremor of progress in history has **been accompanied by** a moral panic.
+>
+> 历史上，每次科技进步带来改变的同时，也会引起一场道德恐慌。
+
+我们表示“与此同时、随着”的概念时，一般会想到 at the same time, meanwhile 等，而如果能用 come with / go with / accompany 替换，则会让句子更加灵活、地道。
+
+> 精读·写作18期U2
+
 #### 如何引出方案
 
 It would be wise to ... . A good place to start would be with ... . ……很明智。首先一点是……
