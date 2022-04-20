@@ -39,6 +39,38 @@ The prosecution retorts that... .
 
 > 寒假小课U1
 
+#### 如何表达递进逻辑关系
+
+> The reluctance to go home **was not confined to** wayward men.
+>
+> 不只是任性的男客不想回家
+
+> His kindness **was not confined to words**; for within an hour after he left them, a large basket full of garden stuff and fruit arrived from the park, which was followed before the end of the day by a present of game.
+>
+> 他的一片好心不光挂在嘴皮上，他走后不到半个钟头，就打发人从巴顿庄园送来一大篮子蔬菜水果，天黑之前又送来些野味。
+>
+> 理智与情感
+
+表达递进的逻辑关系时，我们第一反应是 not only...but also...，比如第二句我们可能会说：
+
+His kindness was reflected not only in words, but also in actions. Within an hour after he left them, a large basket full of garden...
+
+而原文用了 be not confined to（不限于）表达递进的逻辑关系，不落窠臼。
+
+> 精读·写作18期U2
+
+#### 如何进行比较？
+
+> Some people hope that the internet will revolutionize higher education, making it cheaper and more accessible to the masses. Others fear the prospect. Some academics worry that they will be sacked and replaced by videos of their more photogenic colleagues. Others argue that MOOCs(massive open online courses) **are nowhere near as good as** a class taught face-to-face.
+>
+> 一些人认为互联网能改革高等教育，使其更便宜、更普及。其他人则对前景感到担忧。一些学者担心他们会被解雇，取而代之的是他们更上镜的同事的视频。另一些人则认为慕课(大规模在线开放课程)远不如面对面授课好。
+
+可以从这段话中提炼出一个写作句型：A be nowhere near as XX as B，意思是“A远没有B那么XX”，用于进行比较。
+
+这个句型的简化版是 not as XX as，nowhere near 是 not at all 的意思，可以翻译成“远没有、远不及”。
+
+>精读·写作18期U2
+
 #### 如何分析问题？
 
 Start with XX problems ...
@@ -52,11 +84,17 @@ A third worry is ...
 
 > 寒假小课U3
 
-#### 分析事物的利与弊
+#### 如何进行利弊分析
 
 >![image-20220415114410155](soren.assets/image-20220415114410155.png)
 >
 >![image-20220415114418686](soren.assets/image-20220415114418686.png)
+>
+>**Equity comes with benefits and costs. Start with the benefits.** Along with  wholesale debt and deposits, equity is one of banks' three main sources of funds. These funds (a bank's liabilities) are channeled into assets of various types. But assets are risky, and in a downturn their value can fall. A bank's liability must then also fall to ensure that what it is owed and what is owes add up. Equity is the balancing item, taking the hit so that debt and deposits are shielded from losses. As a bank's equity cushion rises, the hit that it can absorb gets bigger, too.
+>
+>**But shock-absorbing equity comes with costs too.** take Danish banks, which had average capital ratios of 75% in the mid-1800s. A bank like this, funded mainly by equity, can make loans to borrowers but has limited capacity to accept deposits. Turning short-term deposits into long-term loans is one of the main reasons banks exist, enabling customers to have the comfort of deposits that can be withdrawn at any time together with the certainty of mortgages that might last for 26 years.
+>
+>经济学人
 
 可以从中提炼出一个写作模板：
 
@@ -121,6 +159,18 @@ It would be wise to ... . A good place to start would be with ... . ……很明
 替换提出建议时的 way, method, means, solution 等常规表达。
 
 >精读·写作18期U1
+
+#### 如何提出方案、建议？
+
+> **Tweaks have been made to** preserve the principle of one bool, one price.
+>
+> 经济学人
+
+可以从这句话中提炼出一个写作句型：Tweaks have been / should be  made to ... 可用于提出方案建议。
+
+这个句型是被动语态，突出方案建议，弱化人的主体位置，相比于我们经常使用的 First, we should...; The first method to solve the problem is...，这个句型更加地道。
+
+>精读·写作18期U2
 
 #### 如何引出结果
 
