@@ -351,6 +351,12 @@ But the critics of cash have **been met by** their own critics, who argue that e
 
 > 精读·写作18期 精读4 第5句注解
 
+My parents arrived as the leaves began to turn, when campus was at its most beautiful, the reds and yellows of autumn **mingling with** the burgundy (深红色) of colonial brick.
+
+树叶开始变色时，我的父母来到了校园。那正值校园最美丽的时候，秋日红色和黄色的树叶与殖民时期建筑风格的酒红色砖墙**交相辉映**。
+
+> 精读·写作18期 U3 精读2 第4句注解
+
 ## 语法要点
 
 ### 介词+which/whom 的定语从句
