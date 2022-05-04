@@ -71,6 +71,20 @@ His kindness was reflected not only in words, but also in actions. Within an hou
 
 >精读·写作18期U2
 
+#### 如何进行对比
+
+> And influencers are technologically proficient in a way that old-style brand ambassadors never were.
+>
+> 网红精通科技，这也是传统品牌大使难以望其项背的。
+>
+> 经济学人
+
+in a way that others never do/be，这个句型的字面意思虽然是“以一种别人无法做成的方式做成了某事”，但实际表达的是“别人无法做成，而某人做成了”，是一种对比的逻辑。以后我们表达“A能做B不能做”的概念时，就可以套用这个表达，使语言更加老道。
+
+我们学到一个新表达，不要停留在字面意思，而要深入思考它的内在含义以及使用语境。以后遇到相似语境时，就可以直接套用。
+
+> 精读·写作18期U3
+
 #### 如何分析问题？
 
 Start with XX problems ...
@@ -295,6 +309,26 @@ cross the Rubicon，表示“破釜沉舟，背水一战”。写作中如果能
 
 >精读·写作18期U1
 
+#### “不只是”“不仅”可以怎么说？如何表示更进一步的逻辑？
+
+> Self-driving vehicles that can be summoned and dismissed at will could do **more than** make driving easier: they promise to overturn many industries and redefine urban life.
+>
+> 那些能够被随意呼来唤去的自动驾驶车辆可以做的不只是让驾驶变得更轻松，他们势必会颠覆很多行业，改变都市生活。
+>
+> 经济学人
+
+> Graduating at a time of such economic hardship could be **more than** just a temporary setback. Studies show that it can have "a huge impact" on lifetime earnings.
+>
+> 毕业于这样一个经济困难期可能不仅仅是暂时的挫折。研究表明这可能对终身收入产生“巨大影响”
+>
+> 经济学人
+
+表达“不只是”“不仅”的概念时，我们最先想到的是 not only，我们可以从这两句话中提炼出一个表达：more than，由“多余、超过”引申出“不只是”“不仅”的含义，写作中可以替换 not only，推陈出新。
+
+在分析优势、劣势、问题、影响时，就可以用 more than 表示更进一步的逻辑关系。
+
+> 精读·写作18期U3
+
 #### 比较两个事物的特点
 
 > Some people hope that the internet will revolutionise higher education, making it cheaper and more accessible to the masses. Others fear the prospect. Some academics worry that they will be sacked and replaced by videos of their more photogenic colleagues. Others argue that MOOCs (massive open online courses) are nowhere near as good as a class taught face-to-face.
@@ -304,6 +338,36 @@ cross the Rubicon，表示“破釜沉舟，背水一战”。写作中如果能
 A is nowhere near as...as B 是一个写作句型，可用于比较两个事物的特点，意思是“A远没有B那么……”。
 
 > 精读·写作18期U2
+
+#### 如何表达人们的刻板印象
+
+> Whenever the subject of 'Western food' came up in conversation, people would dismiss it out of hand with a few barbed stereotypes: 'Xi can hen dan diao!'(Western food is very monotonous) or 'Xi can hen jian dan!'(Western food is very simple.)
+>
+> 摆龙门阵的时候，只要一提到“西餐”，大家就一发不可收拾地开始表达成见：“西餐很单调！”或“西餐很简单!”
+>
+> 鱼翅与花椒
+
+我们可以从这段话中提炼出一个写作句型：
+
+Whenever the subject of "XX" came up in conversation, people would dismiss it out of hand with a few barbed stereotypes: YY.
+
+写作中我们可以套用该句型，先指出人们的刻板印象，然后对刻板印象进行批评，进而引出自己的观点或真实情况。
+
+> 精读·写作18期U3
+
+#### 如何描述新事物被逐渐接受的过程
+
+> Initially dismissed as credulous Gen-Z folk who had mistaken posting selfies for having a job, there entrepreneurs have become a big business, boosted further by the e-commerce surge from the pandemic.
+>
+> 这些创业者最初被认为不过是一群容易上当的“Z世代”，误以为发发自拍就是份正经工作。但现在做网红已然是一门大生意，而且疫情带来的电商热潮进一步推动了网红产业的发展。
+>
+> 经济学人
+
+不管是四六级，还是考研雅思，写作中经常会谈到新生事物。新生事物总有一个从“不被认可”到“逐渐被接受”的过程，在描述这个过程时，我们就可以套用下面这个句型
+
+Initially dismissed as XX who+从句, 主语 have become YY.
+
+> 精读·写作18期U3
 
 ### 表达替换
 
