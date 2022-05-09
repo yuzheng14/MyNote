@@ -127,3 +127,7 @@ git ls-files | xargs wc -l
 find . "(" -name "*.css" -or -name "*.js" -or -name "*.cpp"  -or -name "*.vue" ")" -print | xargs wc -l
 ```
 
+```bash
+find . "(" -name "*.c" -or -name "*.h" ")" -print | xargs wc -l
+```
+
