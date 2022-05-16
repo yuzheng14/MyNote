@@ -14,6 +14,28 @@
 
 > 寒假小课U4
 
+#### 作文开篇
+
+写作时，我们可以先讲一个大众观点，然后通过转折引出自己的观点。这种开篇手法能让文章更加回环曲折，也能适当增加字数。但注意，「大众观点」一定要言简意赅、一笔带过，不能反客为主，抢了主旨的风头：
+
+Mention ...(主题), and most people will think of ...(大众看法). But a more fitting image may be that of ...(作者看法), ....(接下来可以通过后置定语、同位语或定语从句的结构进行补充)。
+
+> MENTION ARTIFICIAL INTELLIGENCE, and most people will think of robots. But a more fitting image may be that of Janus, the Roman god of beginnings, transitions and endings, who has two faces looking in opposite directions. On one side are the positive changes that ...
+>
+> Look the other way, though, and there are plenty of potential pitfalls. ...
+
+> 精读·写作18期 话题拓展
+
+#### 作文开篇
+
+在作文开头引出某个话题时，我们可以先渲染一下其热度，再进入正题。这时就可以考虑使用这个句型了：
+
+Commanding the plot lines of Hollywood films, covers of magazines and reams of newsprint, ...(话题) draws much attention.
+
+> COMMANDING the plot lines of Hollywood films, covers of magazines and reams of newsprint, the contest between artificial intelligence(AI) and mankind draws much attention.
+
+> 精读·写作18期 话题拓展
+
 #### In a society fraught by/with 在一个……样的社会中
 
 > In a society fraught by political danger, where individuals were subject to the arbitrary rule of their imperial masters, and careers and reputations could be broken on a whim, it was a safe pleasure, one in which you could lose yourself without fear.（在一个政治动荡的社会，个人的命运受制于专制的帝国君主；事业、名声可能因为某人的心血来潮就毁于一旦。在这样的环境中，事物是很安全的享受，你可以毫无恐惧地在其中放松自己。）
@@ -22,7 +44,7 @@
 
 比如，在”职业“”就业“等话题的写作中，可以用 In a society fraught by risks of losing jobs 引出主题。
 
->精读·写作18期U1
+>精读·写作18期 话题拓展
 
 #### 如何介绍正反双方的观点？
 
@@ -84,6 +106,20 @@ in a way that others never do/be，这个句型的字面意思虽然是“以一
 我们学到一个新表达，不要停留在字面意思，而要深入思考它的内在含义以及使用语境。以后遇到相似语境时，就可以直接套用。
 
 > 精读·写作18期U3
+
+#### 正反两面性描述
+
+在描述事物的正反两面性时，就可以用到下面的句型：
+
+On one side are...
+
+Look the other way, though, and there are...
+
+> **On one side are** the positive changes that AI will bring, enabling people to achieve more, far more quickly, by using technology to enhance their existing skills.
+>
+> **Look the other way, though, and there are** plenty of potential pitfalls.
+
+> 精读·写作18期 话题拓展
 
 #### 如何分析问题？
 
