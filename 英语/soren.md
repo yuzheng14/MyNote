@@ -24,7 +24,7 @@ Mention ...(主题), and most people will think of ...(大众看法). But a more
 >
 > Look the other way, though, and there are plenty of potential pitfalls. ...
 
-> 精读·写作18期 话题拓展
+> 精读·写作18期 话题拓展 1
 
 #### 作文开篇
 
@@ -34,7 +34,7 @@ Commanding the plot lines of Hollywood films, covers of magazines and reams of n
 
 > COMMANDING the plot lines of Hollywood films, covers of magazines and reams of newsprint, the contest between artificial intelligence(AI) and mankind draws much attention.
 
-> 精读·写作18期 话题拓展
+> 精读·写作18期 话题拓展 1
 
 #### In a society fraught by/with 在一个……样的社会中
 
@@ -119,7 +119,20 @@ Look the other way, though, and there are...
 >
 > **Look the other way, though, and there are** plenty of potential pitfalls.
 
-> 精读·写作18期 话题拓展
+> 精读·写作18期 话题拓展 1
+
+#### 利弊分析
+
+the good far outweighs the bad
+
+利远远大于弊
+
+> Yes, they can be used for wasting time and spreading disinformation. But the good far outweighs the bad.  
+> 诚然，人们也会用手机消磨时间、传播虚假信息。但其利远大于弊。
+>
+> 经济学人
+
+> 精读·写作18期 话题拓展 2
 
 #### 如何分析问题？
 
@@ -133,6 +146,34 @@ A third worry is ...
 2. 用不同的词 problem, concern, worry 表达同一个含义。在写作中，这三个词以及 risk 都是可以相互替换的。
 
 > 寒假小课U3
+
+#### 引发担忧
+
+The immediate concern is that...(担忧1)
+
+As...(背景), a second area of concern is...(担忧2)
+
+A third area where ...(写作对象) is causing concern is in...(担忧3)
+
+这组写作句型，结构多变，句式灵活，值得背诵、效仿。以后不要再说 The first concern is..., The second concern is..., The third concern is...了。
+
+> The immediate concern is that the scramble to amass the data needed to train AI systems is infringing on people’s privacy.  
+> ...  
+> As AI systems start to be applied in areas like predictive policing, prison sentencing, job recruitment or credit scoring, a second area of concern is that of “algorithmic bias”—the worry that ...  
+> ...   
+> A third area where AI is causing concern is in self-driving cars.
+>
+> 经济学人
+
+> 精读·写作18期 话题拓展 2
+
+#### 分析原因
+
+One reason for A is B
+
+A的一个原因是B。
+
+> 精读·写作18期 话题拓展 2
 
 #### 如何进行利弊分析
 
@@ -404,6 +445,27 @@ Whenever the subject of "XX" came up in conversation, people would dismiss it ou
 Initially dismissed as XX who+从句, 主语 have become YY.
 
 > 精读·写作18期U3
+
+#### 举例子
+
+to name but a few 等等，不一而足。
+
+> Activities available include squash, archery and swimming, to name but a few.  
+> 所设活动项目包括壁球、射箭、游泳等等，不一而足。
+
+> 精读·写作18期 话题拓展 2
+
+#### 举例子
+
+举例子时，我们常用such as, including等表达，下次可以尝试新的用法：
+
+from...to...
+
+> Monitoring everything that people do online, from shopping to reading to posting on social media, lets internet giants build detailed personal profiles that can be used to target advertisements or recommend items of interest.
+>
+> 经济学人
+
+> 精读·写作18期 话题拓展 2
 
 ### 表达替换
 
