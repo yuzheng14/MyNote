@@ -467,6 +467,26 @@ from...to...
 
 > 精读·写作18期 话题拓展 2
 
+#### 表示“引发担忧”
+
+As ... proliferate / advance / develop（背景）,concerns that ... （同位语从句，所担忧的内容）have become more widespread.
+
+> But as smart speakers from Amazon, Apple, Google and other technology giants proliferate, concerns taht they might be digitally snooping have become more widespread.
+>
+> 但随着亚马逊、苹果、谷歌和其它科技企业的智能音箱数量激增，越来越多的人担心它们可能会进行监听。
+
+> 精读·写作18期 话题拓展 5
+
+#### 表示“引发担忧”
+
+... often trigger worries about ...
+
+> Advances in AI often trigger worries about human obsolescence.
+>
+> 人工智能的发展经常会引发人类对于自己将被淘汰的担忧。
+
+> 精读·写作18期 话题拓展 5
+
 ### 表达替换
 
 #### 太，加深程度
