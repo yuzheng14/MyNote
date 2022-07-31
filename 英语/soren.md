@@ -26,7 +26,9 @@ Mention ...(主题), and most people will think of ...(大众看法). But a more
 
 > 精读·写作18期 话题拓展 1
 
-#### 作文开篇
+#### 作文开篇<span id="Commanding"></span>
+
+同[表示引发关注](#Commanding2)
 
 在作文开头引出某个话题时，我们可以先渲染一下其热度，再进入正题。这时就可以考虑使用这个句型了：
 
@@ -35,6 +37,18 @@ Commanding the plot lines of Hollywood films, covers of magazines and reams of n
 > COMMANDING the plot lines of Hollywood films, covers of magazines and reams of newsprint, the contest between artificial intelligence(AI) and mankind draws much attention.
 
 > 精读·写作18期 话题拓展 1
+
+#### 通过类比，引出话题
+
+引出话题的方式有很多，其中一种就是通过类比引出话题
+
+> Just as cars reshaped the world in the 20th century, in ways good and bad, AVs could change how people live, work and play.
+>
+> 就像 20 世纪的汽车有利有弊地改变世界一样，无人驾驶也会改变人们的生活、工作和娱乐方式。
+
+我们可以从中提炼出一个写作句型：Just as+被类比的事物, 描述对象. 意思是“正如...，...如何如何”。
+
+> 精读·写作18期 U5
 
 #### In a society fraught by/with 在一个……样的社会中
 
@@ -147,6 +161,43 @@ A third worry is ...
 
 > 寒假小课U3
 
+#### 分析原因/影响/担忧/问题
+
+很多作文中都要分析原因、影响、担忧、问题等，我们来看一下《经济学人》是怎么分析的：
+
+> More worrying is the spread of bad habits ... But that is note the biggest problem. The greater worries lie elsewhere, in the abuse of office and the threats ro freedom ... The most worrying is the dissemination of intrusive surveilance ...
+>
+> 更令人担忧的是坏习惯的传播。……但这还不是最大的问题，更大的问题在于其他方面，即滥用职权和对自由的威胁。……最令人担忧的是侵扰性监视的传播。……
+
+我们可以从中提炼出一套写作模板：
+More worrying is...
+But that is not the biggest problem. The greater worries lie elsewhere, in...
+The most worrying is...
+也可以稍加调整，改成：
+A major reason is...
+But that is not the most important factor. The more important factor lies elsewhere, in...
+The biggest reason is...
+这套模板可以使分析更有层次性。
+
+> 精读·写作18期 U5
+
+#### 区分主次、突出某事重要性（可用于分析原因、方案等）
+
+> Edinburgh and Glasgow top the list of European cities and regions for foreign direct investment.
+>
+> 爱丁堡和格拉斯哥在吸引外国直接投资的欧洲城市和地区中名列前茅。（爱丁堡和格拉斯哥是欧洲吸引外国直接投资最多的城市和地区。）
+
+> High on the list of public demands is to end miitary control of broadcasting...
+>
+> 高居公众呼声前列的是要求结束军方对广播电视的控制。
+
+我们可以从例句中提炼出两组写作句型：
+XX top the list of...，其中XX可以是reason, problem, solution 等。
+High on the list of... is to... 最重要的是...
+作文中分析原因、方案、问题、影响时，就可以套用这两组句型。
+
+> 精读·写作18期 U5
+
 #### 引发担忧
 
 The immediate concern is that...(担忧1)
@@ -166,6 +217,16 @@ A third area where ...(写作对象) is causing concern is in...(担忧3)
 > 经济学人
 
 > 精读·写作18期 话题拓展 2
+
+#### 强调问题的严峻性
+
+> Apple's woes serve as a wake-up call for the whole industry.
+>
+> 苹果的问题给整个行业敲响警钟。
+
+写作中，在分析完一个问题或描述完一个现象后，我们就可以再通过“XX serve as a wake-up call for...”句型，突出出问题的严重性。
+
+> 精读·写作18期 U5
 
 #### 分析原因
 
@@ -487,6 +548,21 @@ As ... proliferate / advance / develop（背景）,concerns that ... （同位�
 
 > 精读·写作18期 话题拓展 5
 
+#### 表示受到关注<span id="Commanding2"></span>
+
+同[作文开篇](#Commanding)
+
+在表达“某物受到关注”时，我们最常用的是 draw public attention，看一下《经济学人》是怎么说的
+
+> COMMANDING the plot lines of Hollywood films, covers of magazines and reams of newsprint, the contest between artificial intelligence(AI) and mankind draws much attention.
+>
+> 不论是在好莱坞电影里、杂志封面上，还是铺天盖地的新闻报道中，人工智能（AI）和人类一较高下的主题无处不在，吸引广泛的关注。
+
+我们可以从句中提炼出一个写作句型：Commanding the plot lines of Hollywood films, covers of magazines and reams of newsprint, XX draws much attention.
+这个句型的好处是，先通过V-ing分词描述了某物随处可见的情况，然后再通过主句进行概括，点明“吸引关注”。比我们用的 draw public attention 内容更加丰富。
+
+> 精读·写作18期 U5
+
 ### 表达替换
 
 #### 太，加深程度
@@ -524,6 +600,96 @@ grain traction 是个很地道的搭配，是 become popular 的高级替换
 原句使用 in the event of 表示“如果……发生”，可以替换常用的 if，表达“假设”的概念。
 
 >精读·写作18期U1
+
+#### 举例子
+
+> Witness the recent collapse in the share price of Teladoc.
+
+以动词原形开头，是祈使句，带有请求、命令的语气。
+
+Witness/Consider/Take sth 是一种举例子的用法，可以翻译成“看一看，从...可见一斑，例如...”，在写作中可以替换 for example
+
+>Bad economic times can result in political dictatorships. Witness Germany in the 1930s.
+>
+>经济不景气时代可以产生政治独裁。 看看20世纪30年代的德国便知。 
+>
+>经济学人
+
+witness 也可以改成 ...as witnessed by sth
+
+> Bad economic times can result in political dictatorships, as witnessed by Germany in the 1930s.
+>
+> 经济不景气时代可以产生政治独裁。看看20世纪30年代的德国便知。
+
+> 精读·写作18期U5
+
+#### 首先
+
+> Start with early diagnosis.
+
+start with 在写作中可以替换 The first is, First，表示“首先”，是一个非常地道的用法。
+
+> 精读·写作18期U5
+
+#### 起作用、有成效
+
+> Most drugs work in just 30-50% of patients.
+
+work 在这里是“起作用”的意思，写作中可以替换 be effective.
+
+> 精读·写作18期U5
+
+#### 日复一日，总是
+
+> Continuous monitoring also shifts the balance of care from what doctors can do in the brif occasional office consultation to what patients can do for themselves day in, day out.
+>
+> 连续监测还可以改变医疗平衡，以前医生只能偶尔地提供短暂的办公室会诊，而未来患者每天都知道该怎么做（以保持健康）。
+
+day in, day out 的英文解释是：every day for a long time, especially in a way that is boring or unpleasant “日复一日地、总是”
+
+写作中我们可以用 day in, day out 替换 always、all the time 等常用词汇，提高写作“逼格”。
+
+> 精读·写作18期U5
+
+#### 做某事的时机已成熟、是时候...
+
+> The time is ripe for us to take actions for / agianst ...
+>
+> 是时候采取行动支持/反对...
+
+写作中我们可以用 The time is ripe for us to do 来表示“做某事的时机已成熟、是时候...”，替换常用的 It is (high) time for us to do...
+
+> 精读·写作18期U5
+
+#### 最（不）要紧的（(not) important）
+
+> High on the list of public demands is to end military control of broadcasting... 
+>
+> 高居公众呼声前列的是要求结束军方对广播电视的控制。
+
+写作中我们可以用 be high / low on a list 或 be at the top / bottom of a list 表示“最要紧的/最不紧要的”意思，替换 important / not important 的含义
+
+> 精读·写作18期U5
+
+#### difficulty
+
+> The country has overcome ites immediate crisis, but faces a bumpy ride.
+>
+> 这个国家已经克服了眼前的危机，但仍面临着重重困难。
+
+写作中如果遇到difficulties时，可以用 a bumpy/rough ride 来替换，使语言更加丰富。
+
+> 精读·写作18期U5
+
+#### sb feels .../sp is full of ...
+
+> There will be odd rallies, butfear will continue to stalk the financial markets.
+>
+> 可能会出现偶尔反弹，但恐惧会继续笼罩金融市场。
+
+以后表达“某人感到...”“某地充满...情绪”时，就可以用「情绪词+stalk sb/sp」，以替换 sb feels..., sp is full of...，使语言更有文学性。
+
+> 精读·写作18期U5e
 
 ## 经典例句
 
