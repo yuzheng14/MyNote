@@ -1,6 +1,6 @@
 # WSL安装教程
 
-本文源于[Microsoft官方文档]([Install WSL | Microsoft Docs](https://docs.microsoft.com/en-us/windows/wsl/install))
+本文源于[Microsoft官方文档](https://docs.microsoft.com/en-us/windows/wsl/install)
 
 ## 前置条件
 
