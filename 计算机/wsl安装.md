@@ -93,3 +93,58 @@ wsl --install -d <Distribution Name>
 
 成功
 
+## 端口转发<span id="portproxy"></span>
+
+目前微软只允许宿主通过 `localhost` 来访问 `wsl`，无法通过局域网其他设备进行访问，如果局域网其他设备想要访问只能进行端口转发
+
+原文章[如何在局域网的其他主机上中访问本机的WSL2 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/425312804)
+
+### 开放 `windows` 端口
+
+打开 `Windows Defender FireWal with Advanced security`
+
+![image-20221112103928450](wsl%E5%AE%89%E8%A3%85.assets/%E7%AB%AF%E5%8F%A3%E8%BD%AC%E5%8F%91-defender%20firewall.png)
+
+找到入栈规则，点击新建规则，按照图示开放自己需要开放的端口
+
+![img](wsl%E5%AE%89%E8%A3%85.assets/%E7%AB%AF%E5%8F%A3%E8%BD%AC%E5%8F%91-%E5%85%A5%E7%AB%99%E8%A7%84%E5%88%99-%E8%A7%84%E5%88%99%E7%B1%BB%E5%9E%8B.webp)
+
+![img](wsl%E5%AE%89%E8%A3%85.assets/%E7%AB%AF%E5%8F%A3%E8%BD%AC%E5%8F%91-%E5%85%A5%E7%AB%99%E8%A7%84%E5%88%99-%E5%8D%8F%E8%AE%AE%E5%92%8C%E7%AB%AF%E5%8F%A3.webp)
+
+![img](wsl%E5%AE%89%E8%A3%85.assets/%E7%AB%AF%E5%8F%A3%E8%BD%AC%E5%8F%91-%E5%85%A5%E7%AB%99%E8%A7%84%E5%88%99-%E6%93%8D%E4%BD%9C.webp)
+
+![img](wsl%E5%AE%89%E8%A3%85.assets/%E7%AB%AF%E5%8F%A3%E8%BD%AC%E5%8F%91-%E5%85%A5%E7%AB%99%E8%A7%84%E5%88%99-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6.webp)
+
+![img](wsl%E5%AE%89%E8%A3%85.assets/端口转发-入站规则-名称.webp)
+
+### 转发端口
+
+在 `wsl` 内部输入 `ifconfig` 指令获取到 `wsl` 的 ip 地址
+
+![QQ截图20221112110738](wsl%E5%AE%89%E8%A3%85.assets/%E7%AB%AF%E5%8F%A3%E8%BD%AC%E5%8F%91-ip%E5%9C%B0%E5%9D%80.png)
+
+输入以下指令进行端口转发
+
+```powershell
+netsh interface portproxy add v4tov4 listenaddress=0.0.0.0 listenport=<windows port> connectport=<wsl port> connectaddress=<wsl ip>
+```
+
+```
+listenport, 表示要监听的 Windows 端口
+listenaddress, 表示监听地址, 0.0.0.0 表示匹配所有地址, 比如Windows 既有Wifi网卡, 又有有线网卡, 那么访问任意两个网卡, 都会被监听到,当然也可以指定其中之一的IP的地址
+connectaddress ,要转发的地址
+connectport, 要转发到的端口
+```
+
+查看所有的端口转发
+
+```powershell
+netsh interface portproxy show all
+```
+
+删除转发
+
+```powershell
+netsh interface portproxy delete v4tov4 listenport=<windows port> listenaddress=0.0.0.0
+```
+
