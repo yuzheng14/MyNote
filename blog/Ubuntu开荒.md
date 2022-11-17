@@ -16,7 +16,7 @@ sudo chmod 777 sources.list
 备份原有文件
 
 ```bash
-mv sources.list sources.list.bak
+sudo mv sources.list sources.list.bak
 ```
 
 写入镜像源
@@ -324,3 +324,4 @@ sudo apt install -y build-essential
 ```
 
 这个命令将会安装一系列软件包，包括`gcc`,`g++`,和`make`。
+
