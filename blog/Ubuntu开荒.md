@@ -114,7 +114,7 @@ sudo visudo
 
 将username替换为自己的用户名
 
-依次按下<kbd>Ctrl</kbd>+<kbd>O</kbd>，<kbd>Enter</kbd>，<kbd>Ctrl</kbd>+<kbd>X</kbd> 退出
+依次按下<kbd>Ctrl</kbd>+<kbd>X</kbd>, <kbd>Y</kbd>，<kbd>Enter</kbd> 保存退出
 
 ## 配置 git
 
