@@ -90,6 +90,13 @@ sudo apt install language-pack-zh-hans
 sudo locale-gen zh_CN.UTF-8
 ```
 
+设定中文
+
+```shell
+echo "export LC_ALL=zh_CN.UTF-8">> /etc/profile
+source /etc/profile
+```
+
 ## sudo 免密（可选）
 
 输入
@@ -189,6 +196,13 @@ if [ "$color_prompt" = yes ]; then
 else
         PS1='${debian_chroot:+($debian_chroot)}\u@\h:\W $(git_branch)\$ '
 fi
+```
+
+## 安装 zsh && oh-my-zsh
+
+```shell
+sudo apt install -y zsh
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
 ## 安装 node
